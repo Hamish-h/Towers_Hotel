@@ -11,7 +11,7 @@ public enum ConferenceType {
         this.capacity = capacity;
     }
 
-    public int getValue(){
+    public int getCapacity(){
         return capacity;
     }
 
