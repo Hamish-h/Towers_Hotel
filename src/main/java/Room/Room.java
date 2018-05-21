@@ -13,6 +13,7 @@ public abstract class Room {
 
     }
 
+    // ???
     public ArrayList<String> getGuestList() {
         return guestList;
     }
